@@ -1,0 +1,36 @@
+{
+    "recommendations": [
+        // c++ : autodocumentation
+        "njpwerner.autodocstring",
+        // c++ : syntax
+        "jeff-hykin.better-cpp-syntax",
+        // c++ :
+        "ms-vscode.cpptools",
+        // c++ :
+        "ms-vscode.cpptools-extension-pack",
+        // c++ :
+        "ms-vscode.cpptools-themes",
+        // c++, python : fomatter
+        "wmaurer.change-case",
+        // c++ : linter
+        "notskm.clang-tidy",
+        // c++ : cmake
+        "twxs.cmake",
+        // c++ : cmake
+        "ms-vscode.cmake-tools",
+        // c++ : cmake
+        "cheshirekow.cmake-format",
+        // c++, python : auto doxyzen
+        "cschlosser.doxdocgen",
+        // c++, python : display error
+        "usernamehw.errorlens",
+        // python :
+        "ms-python.python",
+        // ssh :
+        "ms-vscode-remote.remote-ssh",
+        // ssh :
+        "ms-vscode-remote.remote-ssh-edit",
+        // ros :
+        "ms-iot.vscode-ros"
+    ]
+}
