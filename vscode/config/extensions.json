@@ -31,6 +31,8 @@
         // ssh :
         "ms-vscode-remote.remote-ssh-edit",
         // ros :
-        "ms-iot.vscode-ros"
+        "ms-iot.vscode-ros",
+        // git graph :
+        "mhutchie.git-graph"
     ]
 }
